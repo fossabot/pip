@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fpip.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fpip?ref=badge_shield)
+
 pip - The Python Package Installer
 ==================================
 
@@ -55,3 +57,7 @@ rooms, and mailing lists is expected to follow the `PyPA Code of Conduct`_.
 .. _User IRC: https://webchat.freenode.net/?channels=%23pypa
 .. _Development IRC: https://webchat.freenode.net/?channels=%23pypa-dev
 .. _PyPA Code of Conduct: https://www.pypa.io/en/latest/code-of-conduct/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fpip.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fpip?ref=badge_large)
